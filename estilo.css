@@ -1,0 +1,46 @@
+.tudo{
+margin: 0px 23%;
+text-align: justify;}
+.imgs{
+    display: flex;
+    gap: 1px;
+    img{
+        width: 200px;
+    }
+}
+
+
+
+.banner{
+    background-image: url(capa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 70vh;
+}
+
+.hbanner{
+      text-align: right;
+    padding-top: 30px;
+    padding-right: 400px;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.htopo{
+    font-size: 22px;
+    margin: 0px 23%;
+}
+
+.humatuacao, .hcontato{
+text-align: center;
+font-size: 24px;
+}
+
+.hsobre, .hdoistuacao, .hdoiscontato{
+    font-size: 18px;
+}
+
+span{
+    color: gray;
+}
